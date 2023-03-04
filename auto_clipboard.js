@@ -45,7 +45,7 @@ function addInputPasteEvent() {
     debugPrint('on body handler');
     if (el) {
         debugPrint('register onload handler');
-        el.addEventListener("click", askBackground);
+        el.addEventListener("mouseover", askBackground);
     }
 }
 
