@@ -1,3 +1,4 @@
+创意来自：https://bbs.nga.cn/read.php?tid=31407463&fav=6778ee1b
 # gbf-paste-helper
 
 肝报废插件，在原有的基础上做了一些小改动，只需要移动鼠标到救援码框就会自动把剪贴板内容黏贴进去
